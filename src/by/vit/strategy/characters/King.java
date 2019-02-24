@@ -1,4 +1,4 @@
 package by.vit.strategy.characters;
 
-public class King {
+public class King extends Character {
 }
